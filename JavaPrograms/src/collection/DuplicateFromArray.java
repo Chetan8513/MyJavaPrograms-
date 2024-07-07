@@ -25,7 +25,7 @@ public class DuplicateFromArray {
             for(int j=i+1 ; j<a.length; j++){
 
                 if(a[i]==a[j]){
-                   count++;
+                    count++;
                     System.out.println("duplicate found:"+ count);
 
                    flag = true;
