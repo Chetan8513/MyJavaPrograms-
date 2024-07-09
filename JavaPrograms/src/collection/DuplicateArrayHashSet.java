@@ -19,7 +19,7 @@ public class DuplicateArrayHashSet {
 
 class Test {
 
-    public static void main(String[] args) {g
+    public static void main(String[] args) {
 
         DuplicateArrayHashSet singleton1 = DuplicateArrayHashSet.getInstance();
         DuplicateArrayHashSet singleton2 = DuplicateArrayHashSet.getInstance();
